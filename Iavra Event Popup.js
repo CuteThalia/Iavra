@@ -1,4 +1,8 @@
 /*:
+ * =============================================================================
+ * Iavra Event Popup.js
+ * =============================================================================
+ *
  * @plugindesc Allows to display popups messages above events, which can be used for speech bubbles or on chests.
  * <Iavra Event Popup>
  * @author Iavra
