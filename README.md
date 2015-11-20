@@ -1,5 +1,9 @@
 # DISCLAIMER
-I don't any of those files, contact the owner if you need one. [Iavra](http://pastebin.com/u/Iavra)
+I don't any of these files, contact the owner if you need more information. I use github for easy file save and also easy file tracking. Personal usage only.
+
+# AUTHOR: Iavra
+- [pastebin.com](http://pastebin.com/u/Iavra)
+- [rpgmakerweb.com](http://forums.rpgmakerweb.com/index.php?/user/60477-iavra/)
 
 # FILES
 ## Iavra Animate Everything
@@ -32,5 +36,6 @@ I don't any of those files, contact the owner if you need one. [Iavra](http://pa
 ## Iavra Text Sound
 [NO] Dynamically plays sound effects, while text messages are printed.
 
-# License
-> Unknown
+# Terms of Use
+> Free to use for both commercial and non-commercial games. Please give credit.
+
