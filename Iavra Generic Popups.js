@@ -1,4 +1,8 @@
 /*:
+ * =============================================================================
+ * Iavra Generic Popups.js
+ * =============================================================================
+ *
  * @plugindesc Allows to display generic popups messages on the screen.
  * <Iavra Generic Popup>
  * @author Iavra
